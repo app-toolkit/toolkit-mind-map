@@ -1,0 +1,15 @@
+{
+    "pluginName": "MindMap",
+    "version": "0.0.1",
+    "description": "脑思维图",
+    "keywords": [
+        "MindMap"
+    ],
+    "entry": "index.html",
+    "pluginType": "ui",
+    "mode": "multi",
+    "logo": "./dist/logo.ico",
+    "webContainer": true,
+    "author": "TrumanDu",
+    "homepage": "https://github.com/wanglin2/mind-map"
+}
